@@ -34,6 +34,7 @@ The database seeds itself on first start with sample data for a fictional Rotter
 ## Tests
 
 ```bash
+npm install && npx playwright-core install chromium
 npm start &        # server on :4780
 npm run e2e        # Playwright: drives every page and both AI calls, then saves screenshots/
 ```

@@ -7,7 +7,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 function loadKey() {
   if (process.env.OPENROUTER_API_KEY) return process.env.OPENROUTER_API_KEY;
-  for (const p of [path.join(__dirname, '.env'), path.join(__dirname, '..', '.env')]) {
+  for (const p of [path.join(__dirname, '.env')]) {
     if (!fs.existsSync(p)) continue;
     const m = fs.readFileSync(p, 'utf8').match(/^OPENROUTER_API_KEY\s*=\s*(.+)$/m);
     if (m) return m[1].trim().replace(/^["']|["']$/g, '');
