@@ -1,0 +1,10 @@
+invoice_date;invoice_number;supplier;subtotal;vat_rate;vat;total;category
+"2026-04-04";"BM-2026-18821";"Bouwmaat Rotterdam";"2380.17";"21";"499.83";"2880";"Materials"
+"2026-04-08";"IP-Q2-30998";"Interpolis Verzekeringen";"1450";"0";"0";"1450";"Insurance"
+"2026-04-18";"BOELS-774301";"Boels Verhuur";"1652.89";"21";"347.11";"2000";"Equipment rental"
+"2026-05-02";"ST-99120";"Stiho Bouwstoffen";"3140.5";"21";"659.51";"3800.01";"Materials"
+"2026-05-27";"KPN-88231-05";"KPN Zakelijk";"165.29";"21";"34.71";"200";"Office & admin"
+"2026-05-31";"SH-2026-0553";"Shell Tankpas";"743.8";"21";"156.2";"900";"Transport & fuel"
+"2026-06-08";"GZ-4471902";"Gamma Zakelijk";"991.74";"21";"208.26";"1200";"Materials"
+"2026-06-12";"BMN-20260612";"BMN Bouwmaterialen";"4132.23";"21";"867.67";"4999.9";"Materials"
+"2026-06-20";"BOELS-781266";"Boels Verhuur";"1239.67";"21";"260.33";"1500";"Equipment rental"

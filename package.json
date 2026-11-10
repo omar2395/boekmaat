@@ -1,0 +1,21 @@
+{
+  "name": "boekmaat",
+  "version": "1.0.0",
+  "description": "Boekmaat — AI bookkeeping copilot for Dutch SMEs. WhatsApp crew management + Gmail invoice OCR + BTW reconciliation.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node db.js --reset",
+    "e2e": "node e2e.mjs"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.61.1"
+  }
+}

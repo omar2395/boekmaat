@@ -1,0 +1,6 @@
+invoice_date;invoice_number;supplier;subtotal;vat_rate;vat;total;category
+"2026-04-15";"ATL-2026-041";"VvE De Havenkade";"38016.53";"21";"7983.47";"46000";"Renovation — Havenkade"
+"2026-05-11";"ATL-2026-047";"Blokland Vastgoed BV";"28925.62";"21";"6074.38";"35000";"Fit-out — Meent 88"
+"2026-05-27";"ATL-2026-052";"Fam. Verhoeven";"22935.78";"9";"2064.22";"25000";"Extension — private"
+"2026-06-16";"ATL-2026-058";"VvE De Havenkade";"38016.53";"21";"7983.47";"46000";"Renovation — Havenkade"
+"2026-06-24";"ATL-2026-060";"Gemeente Rotterdam — Stadsbeheer";"14876.03";"21";"3123.97";"18000";"Maintenance contract"
